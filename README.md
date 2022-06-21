@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Wood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylanjwood/)](https://www.linkedin.com/in/dylanjwood/)
 [![Medium Badge](https://img.shields.io/badge/Dylan%20Wood-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dylanwood360)](https://medium.com/@dylanwood360)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanwood97@gmail.com)](mailto:dylanwood97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dylanwood97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanwood97@gmail.com)](mailto:dylanwood97@gmail.com)
 
 ## ⚡ Technologies
 
