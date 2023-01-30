@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dwood-97
-- 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning AWS, Python, Docker, and Terraform
-- 📫 How to reach me dylanwood97@gmail.com
+- 👋 Hi, my name is Dylan!
+- 👀 I am a Test Developer on the cloud team at BlueCat Networks
+- 🌱 I’m currently working with networking, CI/CD pipelines, containers, and much more
+- 📫 Feel free to reach out to me at dylanwood97@gmail.com
 
 <!---
 [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Wood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dylanjwood/)](https://www.linkedin.com/in/dylanjwood/)
